@@ -1,0 +1,17 @@
+body{
+
+    background-size:cover;
+}
+a{
+    font-size: 25px;
+    width: 300px;
+    border-radius: 30px;
+    background-color: royalblue;
+    color: goldenrod;
+
+}
+canvas{
+    border-radius: 10px;
+    border-color:black;
+    margin-top:15px;
+}
